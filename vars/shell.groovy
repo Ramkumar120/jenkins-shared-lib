@@ -1,4 +1,4 @@
-def shell(){
+def call(){
   sh "whoami"
   sh "date"
 }
